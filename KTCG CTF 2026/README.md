@@ -1,1 +1,1 @@
-**KTCG CTF 2026**
+# KTCG CTF 2026
